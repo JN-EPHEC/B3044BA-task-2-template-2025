@@ -7,7 +7,7 @@ import Animated, {
   withSequence,
   withTiming,
 } from 'react-native-reanimated';
-
+// UN BEAU COMMENTAIRE
 import { ThemedText } from '@/components/ThemedText';
 
 export function HelloWave() {
